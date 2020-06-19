@@ -1,0 +1,145 @@
+@charset "UTF-8";
+logo {
+}
+#header {
+	padding-top: 30px;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+body {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+#sticky {
+	background-color: rgba(255,255,255,0.60);
+	padding-top: 50px;
+	padding-bottom: 50px;
+	opacity: 1;
+}
+.row.justify-content-start .col-12.col-md-1 {
+	padding-left: 60px;
+	padding-bottom: 30px;
+	padding-top: 0px;
+}
+.row.justify-content-start {
+	width: 100%;
+	height: 100px;
+	background-color: rgba(234,74,77,1.00);
+}
+#header {
+}
+body nav {
+	background-color: rgba(255,255,255,1.00);
+}
+.breadcrumb {
+	padding-right: 100px;
+	padding-bottom: 20px;
+	padding-left: 105px;
+}
+.btn.btn-success {
+	background-color: rgba(46,196,151,1.00);
+	text-shadow: 0px 0px 20px;
+	word-spacing: 2px;
+}
+.btn.btn-warning {
+	margin-left: 2px;
+}
+.container .row .col-md-2.col-sm-2 {
+	margin-left: -10px;
+	margin-bottom: 15px;
+}
+.container .row .col-12 {
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	font-size: 15px;
+	margin-bottom: 10px;
+	margin-top: 30px;
+}
+.container .row div {
+	font-size: 15px;
+}
+.lightgray {
+	color: rgba(196,196,196,1.00);
+}
+.graytext {
+	color: rgba(102,102,102,1.00);
+}
+.col-12 {
+	line-height: 2;
+	margin-top: -40px;
+}
+.container {
+	margin-top: -10px;
+}
+.teacher {
+	margin-top: 20px;
+	margin-bottom: -20px;
+	margin-left: 15px;
+}
+#container {
+}
+.col-sm-8.col-md-4 form .btn.btn-primary.yellowdi.graytext {
+}
+.container .row .col-sm-12.col-md-4 {
+}
+.yellowdi {
+	background-color: rgba(255,204,51,1.00);
+}
+.container2 {
+	background-color: rgba(46,196,151,1.00);
+	margin-top: 150px;
+	position: static;
+	bottom: 0px;
+	width: 100%;
+	height: 40px;
+}
+.container2 .row .col-md-12 {
+	color: rgba(255,255,255,1.00);
+	font-size: x-small;
+	text-decoration: none;
+	text-align: center;
+	line-height: 40px;
+}
+.col-sm-8.col-md-4 form .btn.btn-primary.yellowdi.graytext {
+}
+.carousel-control-prev {
+	margin-top: 70px;
+	z-index: 102;
+}
+body div {
+}
+#sticky {
+	z-index: 101;
+}
+.carousel-control-prev .sr-only {
+	top: 70px;
+}
+body audio {
+	width: 100%;
+	height: 30px;
+	background-color: rgba(255,255,255,1.00);
+}
+.btn.btn-primary.yellowdi.graytext {
+	margin-left: 165px;
+}
+.modal-dialog .modal-content .modal-body {
+}
+.greendi {
+	background-color: rgba(46,196,151,1.00);
+}
+.modal-content .modal-footer .btn.btn-primary.greendi {
+	background-color: rgba(46,196,151,1.00);
+}
+.whitetext {
+	color: rgba(255,255,255,1.00);
+}
+.btn.btn-primary.yellowdi.graytext {
+	margin-left: 173px;
+}
+.btn.btn-primary.yellowdi.graytext {
+	margin-left: 173px;
+}
+.btn.btn-primary.yellowdi.graytext {
+	margin-left: 173px;
+}
